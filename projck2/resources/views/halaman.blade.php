@@ -59,7 +59,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-            <img src="fotoku/logo.jpg" class="d-block w-100" alt="..." height="550px">
+            <img src="fotoku/saya.jpg" class="d-block w-100" alt="..." height="550px">
             </div>
             <div class="carousel-item">
             <img src="fotoku/ddd.jpg" class="d-block w-100" alt="..." height="550px">
